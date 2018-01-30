@@ -1,0 +1,13 @@
+<apex:page standardController="Account" recordSetVar="accounts"  extensions="AccountPagination">
+     <apex:pageBlock title="Viewing Accounts">
+         <apex:form id="theForm">
+             <apex:pageBlockSection >
+                 
+                 <apex:dataList value="{!accounts}" var="acc" type="1">
+                    {!acc.name}     
+                 </apex:dataList>
+                 
+             </apex:pageBlockSection>
+         </apex:form>
+     </apex:pageBlock>
+</apex:page>

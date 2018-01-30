@@ -1,0 +1,18 @@
+{
+    "projectName": "learning",
+    "username": "anwarulhaq794+1@gmail.com",
+    "id": "9d5d0c40-04b6-11e8-8a33-c387eafe3c0d",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap5.salesforce.com",
+    "workspace": "/Users/mac-pc/Documents/SalesForce",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}

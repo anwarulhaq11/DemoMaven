@@ -1,0 +1,930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Date",
+				"DateFormat"
+			],
+			[
+				"getC",
+				"getCollarSize"
+			],
+			[
+				"print",
+				"printStackTrace"
+			],
+			[
+				"get",
+				"getCollarSize"
+			],
+			[
+				"Obj",
+				"ObjectOutputStream"
+			],
+			[
+				"my",
+				"myfile"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"new",
+				"newFile"
+			],
+			[
+				"FIle",
+				"FileWriter"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"Str",
+				"StringBuilder"
+			],
+			[
+				"doub",
+				"doubleAnagram"
+			],
+			[
+				"view",
+				"viewName"
+			],
+			[
+				"table",
+				"tablename"
+			],
+			[
+				"summ",
+				"summary"
+			],
+			[
+				"fla",
+				"flask_learning"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"met",
+				"methods"
+			],
+			[
+				"chec",
+				"checkModules"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"module",
+				"module"
+			],
+			[
+				"process",
+				"processModule"
+			],
+			[
+				"serv",
+				"serveStatic"
+			],
+			[
+				"pth",
+				"pathName"
+			],
+			[
+				"rou",
+				"routes"
+			],
+			[
+				"path",
+				"pathName"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"redi",
+				"redirect_url"
+			],
+			[
+				"flas",
+				"flash"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"co",
+				"colorArray"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"rea",
+				"readingMultiple"
+			],
+			[
+				"readin",
+				"readingMultiple"
+			],
+			[
+				"spl",
+				"splitFile"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"logged",
+				"loggedIn"
+			],
+			[
+				"receiv",
+				"receiver_login"
+			],
+			[
+				"ho",
+				"hospital_login"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"uri",
+				"uriGetParam"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"inde",
+				"index-4"
+			],
+			[
+				"_",
+				"_password"
+			],
+			[
+				"toa",
+				"total_pages"
+			],
+			[
+				"input",
+				"input-file"
+			],
+			[
+				"filter",
+				"filterStart"
+			],
+			[
+				"text",
+				"text-primary"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"modu",
+				"__modules__"
+			],
+			[
+				"__mo",
+				"__modules__"
+			],
+			[
+				"ret",
+				"render_template"
+			],
+			[
+				"previo",
+				"previous"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"mod",
+				"module_name"
+			],
+			[
+				"date",
+				"date_modified"
+			],
+			[
+				"meth",
+				"methods"
+			],
+			[
+				"tot",
+				"total_pages"
+			],
+			[
+				"total",
+				"total_rows"
+			],
+			[
+				"tota",
+				"total_pages"
+			],
+			[
+				"toal",
+				"total_rows"
+			],
+			[
+				"date_",
+				"date_published"
+			],
+			[
+				"cve",
+				"cve_format"
+			],
+			[
+				"check",
+				"checkLength"
+			],
+			[
+				"cv",
+				"cve_format"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"exc",
+				"exc_py"
+			],
+			[
+				"excl",
+				"exclude_classes"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"mehto",
+				"method"
+			],
+			[
+				"meh",
+				"methods"
+			],
+			[
+				"__mod",
+				"__mod_list__"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"read",
+				"reader"
+			],
+			[
+				"cod",
+				"code_files"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"flask",
+				"flask_learning"
+			],
+			[
+				"MYSQL",
+				"MySQL_USER"
+			],
+			[
+				"mysq",
+				"mysql"
+			],
+			[
+				"sql",
+				"SQLAlchemy"
+			],
+			[
+				"Sub",
+				"SubmitField"
+			],
+			[
+				"s",
+				"StringField"
+			],
+			[
+				"use",
+				"user_agent"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ready",
+				"readyState"
+			],
+			[
+				"stat",
+				"readyState"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"x",
+				"XMLHttpRequest"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"no",
+				"node_static"
+			],
+			[
+				"d",
+				"displayModules"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hand",
+				"handleFileSelect"
+			],
+			[
+				"loading",
+				"loading_state"
+			],
+			[
+				"pe",
+				"rtc_peer_connection"
+			],
+			[
+				"webr",
+				"webrtc_capable"
+			],
+			[
+				"media",
+				"media_element"
+			],
+			[
+				"med",
+				"media_element"
+			],
+			[
+				"rtc",
+				"rtc_session_description"
+			],
+			[
+				"ice",
+				"ice_event"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"cle",
+				"clientX"
+			],
+			[
+				"cic",
+				"circleArray"
+			],
+			[
+				"remo",
+				"removeEventListener"
+			],
+			[
+				"activate",
+				"activateListeners"
+			],
+			[
+				"re",
+				"removeEventListener"
+			],
+			[
+				"han",
+				"handleMouseUp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/NewAndExistingController.cls",
+			"settings":
+			{
+				"buffer_size": 760,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/DemoMaven.cls",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "ter",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Terminal: Open in project folder"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"box",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control : in",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			]
+		],
+		"width": 334.0
+	},
+	"console":
+	{
+		"height": 128.0,
+		"history":
+		[
+			"X6KidYlsVsDLyn09whvOXOnU",
+			"clear",
+			".exit",
+			"exit",
+			"echo 'h'",
+			">>>",
+			"terminal",
+			"clear",
+			"ls",
+			"helo"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mac-pc/Documents/SalesForce/learning",
+		"/Users/mac-pc/Documents/SalesForce/learning/src",
+		"/Users/mac-pc/Documents/SalesForce/learning/src/classes"
+	],
+	"file_history":
+	[
+		"/Users/mac-pc/Documents/SalesForce/learning/src/classes/OppListDemo.cls",
+		"/Users/mac-pc/Documents/SalesForce/learning/src/apex",
+		"/Users/mac-pc/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/mac-pc/Desktop/projects/Bootstrap/index.html",
+		"/Users/mac-pc/Desktop/projects/java/testser.ser",
+		"/Users/mac-pc/Desktop/projects/java/mkdir.java",
+		"/Users/mac-pc/Desktop/projects/java/mydir/dirFile",
+		"/Users/mac-pc/Desktop/projects/java/newFile",
+		"/Users/mac-pc/Desktop/projects/electron-quick-start/lib/string.java",
+		"/Users/mac-pc/Desktop/projects/electron-quick-start/lib/files.java",
+		"/Users/mac-pc/Desktop/projects/electron-quick-start/views/home.hbs",
+		"/Users/mac-pc/Desktop/projects/electron-quick-start/app.js",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/templates/public/test.html",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/readPython.js",
+		"/Users/mac-pc/Desktop/projects/Nodejs/echo.html",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/extract.js",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/readCsharp.js",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/readC.js",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/canvas.js",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/canvas1.js",
+		"/Users/mac-pc/Desktop/security/simple.java",
+		"/Users/mac-pc/Documents/GitHub/WookieScanner/wookiescanner/wookiescanner/static/js/choose.js",
+		"/Users/mac-pc/Documents/GitHub/WookieScanner/wookiescanner/wookiescanner/templates/404.html",
+		"/Users/mac-pc/Documents/GitHub/WookieScanner/wookiescanner/wookiescanner/static/js/java.js",
+		"/Applications/MAMP/htdocs/bloodbank/public/views/hospital_login.php",
+		"/Applications/MAMP/htdocs/bloodbank/site/index-1.html",
+		"/Applications/MAMP/htdocs/bloodbank/route.php",
+		"/Applications/MAMP/htdocs/bloodbank/index.php",
+		"/Applications/MAMP/htdocs/bloodbank/controllers/home.php",
+		"/Applications/MAMP/htdocs/bloodbank/controllers/receiver_login.php",
+		"/Applications/MAMP/htdocs/bloodbank/public/views/hospital_login.html",
+		"/Applications/MAMP/htdocs/bloodbank/controllers/hospital_login.php",
+		"/Applications/MAMP/htdocs/bloodbank/public/views/home.html",
+		"/Applications/MAMP/htdocs/bloodbank/public/views/receiver_login.html",
+		"/Applications/MAMP/htdocs/bloodbank/public/views/receiver_login.php",
+		"/Applications/MAMP/htdocs/bloodbank/src/home.php",
+		"/Applications/MAMP/htdocs/bloodbank/src/contact.php",
+		"/Applications/MAMP/htdocs/bloodbank/src/about.php",
+		"/Applications/MAMP/htdocs/bloodbank/public/views/about.html",
+		"/Applications/MAMP/htdocs/bloodbank/.htaccess",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/home.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/.htaccess",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/route.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/public/views/header.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/public/template.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/site/index.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/public/views/body.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/public/views/footer.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/site/index-4.html",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/public/.htaccess",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/public/views/hospital_login.php",
+		"/Applications/MAMP/htdocs/template_51655_0wWLRjjjn00qD33ZLEER/site/content-copy.html",
+		"/index.php",
+		"/Applications/MAMP/htdocs/clamd/static/js/clamd.js",
+		"/Users/mac-pc/Downloads/CodeIgniter-3.1.6/index.php",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/ajaxRequests.js",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/js/choose.js",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/views/public.py",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/templates/layout.html",
+		"/Users/mac-pc/Desktop/projects/security/wookiescanner/wookiescanner/static/css/style.css",
+		"/Users/mac-pc/Desktop/projects/security/app.py",
+		"/Users/mac-pc/Desktop/projects/security/static/templates/error404.html",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/SimpleChatApp/README",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/NodeNinja/package.json",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/NodeNinja/public/styles.css",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/NodeNinja/public/index.html",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/NodeNinja/public/chat.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/NodeNinja/index.js",
+		"/Users/mac-pc/Documents/JavaScript/projecttest/app.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/app.js",
+		"/Users/mac-pc/Desktop/projects/security/exclude_classes.py",
+		"/Users/mac-pc/Desktop/projects/security/static/css/w3.css",
+		"/Users/mac-pc/Desktop/projects/security/static/templates/header.html",
+		"/Users/mac-pc/Desktop/projects/security/static/bootstrap/js/src/alert.js",
+		"/Users/mac-pc/Desktop/projects/security/security_patches/vFeed/README.md",
+		"/Users/mac-pc/Desktop/projects/security/imports/connect.py",
+		"/Users/mac-pc/Desktop/projects/security/imports",
+		"/Users/mac-pc/Desktop/projects/security/static/receive.html",
+		"/Users/mac-pc/Desktop/projects/security/static/js/test.js",
+		"/Users/mac-pc/Desktop/projects/security/static/templates/master.html",
+		"/Users/mac-pc/Desktop/projects/virus scanner/static/master.html",
+		"/Users/mac-pc/Desktop/projects/virus scanner/static/templates/wtf.html",
+		"/Users/mac-pc/Desktop/projects/virus scanner/static/index.html",
+		"/Users/mac-pc/Desktop/projects/virus scanner/static/templates/index.html",
+		"/Users/mac-pc/Desktop/projects/virus scanner/index.html",
+		"/Users/mac-pc/Desktop/security/test.js",
+		"/Users/mac-pc/Desktop/security/public/index.html",
+		"/Users/mac-pc/Desktop/security/public/security.js",
+		"/Users/mac-pc/Desktop/security/app.js",
+		"/Users/mac-pc/Desktop/security/public/test.html",
+		"/Users/mac-pc/Desktop/security/public/test.js",
+		"/Users/mac-pc/Desktop/security/security.js",
+		"/Users/mac-pc/Desktop/security/index.html",
+		"/Users/mac-pc/Desktop/security/test2.py",
+		"/Users/mac-pc/Desktop/security/test1.py",
+		"/Users/mac-pc/Documents/Nodejs/webRTC/MozWebRTC/index.html",
+		"/Users/mac-pc/Documents/Nodejs/webRTC/MozWebRTC/webrtc.js",
+		"/Users/mac-pc/Documents/Nodejs/webRTC/client.js",
+		"/Users/mac-pc/Documents/Nodejs/webRTC/style.css",
+		"/Users/mac-pc/Documents/Nodejs/webRTC/webrtc_polyfill.js",
+		"/Users/mac-pc/Documents/Nodejs/webRTC/index.html",
+		"/Users/mac-pc/Documents/Nodejs/webRTC/app.js",
+		"/Users/mac-pc/Desktop/canvas.js",
+		"/Users/mac-pc/Desktop/paint.js",
+		"/Users/mac-pc/Desktop/paint.html",
+		"/Users/mac-pc/Desktop/canvas.html",
+		"/canvas.html",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/9.server.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/9.html",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/node_modules/socket.io/lib/socket.io.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/3.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/7.server.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/7.html",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/package.json",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/helloworld3.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/5.server.js",
+		"/Users/mac-pc/Documents/Nodejs/socketNode/real time web/test",
+		"/Users/mac-pc/Documents/Nodejs/MaptNode/sample_project/package.json",
+		"/Users/mac-pc/Documents/Nodejs/MyPrograma/events.js",
+		"/Users/mac-pc/Documents/Nodejs/MyPrograma/Expresss.js",
+		"/Users/mac-pc/Documents/Nodejs/elate/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/NewAndExistingController.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/DemoMaven.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learning.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
